@@ -175,6 +175,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Any open source issues that may not be considered as conflict of interest.
 - **Notes**: Only first 250 IBMers are eligible for the developer swag. Refer to [IBM Hacktoberfest internal page](https://w3.ibm.com/developer/hacktoberfest/) (IBM VPN needed) for complete guidelines/requirements.
 
+#### **INDEED**
+
+- **Swag**: earn an Open Source sweatshirt! (Shipping only to US)
+- **Requirements**:
+  - Complete two or more pull requests in October 2020 to any open source Indeed repository 
+- **How to sign up**: https://engineering.indeedblog.com/indeed-hacktoberfest-2020/
+- **Issues**:When your pull requests have been merged, fill out this form (https://docs.google.com/forms/d/e/1FAIpQLSeUKDE1fdyG3jRBngj0dnAXIEKscO128rrXw3a1BcFwNQ6iHg/viewform?usp=sf_link)
+
 #### **InfraCloud**
 
 - **Swag**: T-shirt, stickers, Kindle
@@ -212,6 +220,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
 ### M
+
+#### **MatterMost**
+
+- **Swag**: get a limited edition Mattermost mug!
+- **Requirements**:
+  -If you are a first time contributor, get a PR merged to any of their public repository
+- **How to sign up**: https://mattermost.com/blog/hacktoberfest-2020/
+
 
 #### **MayaData**
 
